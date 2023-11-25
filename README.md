@@ -18,6 +18,16 @@ This form builder script is a tool designed to create and manage forms within a 
   - [ ] Date Field
   - [ ] Steppers
   - [ ] Conditional Inputs
+  - [ ] Checkboxes
+  - [ ] Dropdowns
+  - [ ] Textareas
+  - [ ] File Uploads
+  - [ ] Range Sliders
+  - [ ] Color Pickers
+  - [ ] Time Pickers
+  - [ ] Password Fields
+  - [ ] Hidden Fields
+  - [ ] HTML Blocks
 - [ ] Enhance form customization options.
 - [ ] Improve form validation and error handling.
 - [ ] Implement advanced form layout features.
